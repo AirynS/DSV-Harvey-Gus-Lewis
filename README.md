@@ -4,7 +4,7 @@
 
 ## Welcome to Diverse Stardew Valley!
 
-Diverse Stardew Valley edits the villagers of Pelican Town to add ethnic, cultural, gender identity and body type diversity and unique seasonal and festival outfits for both the vanilla and the alternate diverse character designs. This pack contains character variants and outfits for **Harvey, Gus & Lewis.**
+Diverse Stardew Valley edits the villagers of Pelican Town to add ethnic, cultural, gender identity and body type diversity and unique seasonal and festival outfits for both the vanilla and the alternate diverse character designs. This pack contains character variants and outfits for **Harvey, Gus and Lewis.**
 
 The Diverse Stardew Valley project was started by notsnufffie, and is now being continued by the community. The art and coding of this mod was made by the DSV Team with the help of many generous contributors. **[Here is a complete spreadsheet of DSV’s credits!](https://docs.google.com/spreadsheets/d/10e0GPMcKTrzAm93Uhn17ElejMpiuwxh2t-utQvrR66M/edit#gid=5373728﻿)**
 
